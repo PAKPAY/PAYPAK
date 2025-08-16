@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/code-creations-io/create-your-own-blockchain.git"
+    "url": "git+https://github.com/PAKPAY/PAYPAK.git.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/code-creations-io/create-your-own-blockchain/issues"
+    "url": "https://github.com/PAKPAY/PAYPAK.git/issues"
   },
-  "homepage": "https://github.com/code-creations-io/create-your-own-blockchain#readme",
+  "homepage": "https://github.com/PAKPAY/PAYPAK.git/issues#readme",
   "devDependencies": {
     "@types/node": "^15.0.3",
     "typescript": "^4.2.4"
