@@ -1,4 +1,4 @@
-# create-your-own-blockchain
+# PAYPAK MAINNET
 
 ---
 
